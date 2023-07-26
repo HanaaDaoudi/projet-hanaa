@@ -1,0 +1,28 @@
+body{
+    background-color: #f9d6f278;
+    text-align: center;
+}
+#logo{
+    width: 60px;
+}
+#navbar{
+    border: solid;
+    padding-left: 87%;
+    background-color: aliceblue;
+}
+input[type=text], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px ;
+    border: 1px solid #ccc;
+  }
+  
+  input[type=submit] {
+    width: 80%;
+    background-color: #af4ca0;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+  }

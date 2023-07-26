@@ -1,0 +1,60 @@
+body{
+    background-color: #c1fefea1;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#logo{
+    width: 60px;
+}
+#navbar{
+    border: solid;
+    padding-left: 87%;
+    background-color: aliceblue;
+    margin-bottom: 70px;
+}
+#profil{
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 50px
+}
+.p{
+    margin-left: 20px;
+    font-size:2.5ch;
+
+}
+#p1{
+    border-width:2px;
+}
+#ps{
+    width: 1840px;
+    margin-bottom: 70px;
+}
+#PS{
+    text-align: center;
+    font-size: xx-large;
+
+}
+#liste{
+    text-align: center;
+}
+#obj3{
+    width: 300px;
+}
+.hs{
+    width: 320px;
+    text-align: center;
+    margin: 20px;
+}
+#hs {
+    margin-bottom: 70px;
+}
+.HS{
+    font-size: x-large;
+}
+.table{
+    border:1px solid rgb(23, 121, 163);
+    margin: 10px;
+}
+.title{
+    border-style:inset;
+    border-color: rgb(34, 124, 194);
+}
